@@ -1,2 +1,2 @@
 # animationBasics
-Explores the basics of Core Animation
+Explores dynamic behavior such as collision, gravity, velocity when applied to objects.  
